@@ -1,4 +1,4 @@
-import React, { Component, PropTypes } from 'react';
+import App  from './datecalc';import React, { Component, PropTypes } from 'react';
 
 class RandomTest extends Component {
   static PropTypes = {
